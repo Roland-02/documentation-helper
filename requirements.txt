@@ -1,0 +1,9 @@
+certifi
+python-dotenv
+langchain
+langchain-core
+langchain-tavily
+langchain-pinecone
+langchain-text-splitters
+langchain-chroma
+mistralai
